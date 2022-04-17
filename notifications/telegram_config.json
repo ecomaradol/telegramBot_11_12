@@ -1,14 +1,14 @@
 {
   "app": {
     "bot": {
-      "token": "5266020589:AAFfjmkxZuxYCUyQLoDHaNO4MxGn0uGg4jc",
-      "chat": "-1001627830931",
+      "token": "5319171215:AAFTWJ7X0JPL48Tqx7MyfBESSs_e5--iw2I",
+      "chat": "713786629",
       "replyTo": ""
     },
     "base": {
       "lang": "en",
       "messenger": "telegram",
-      "allureFolder": "allure-report/",
+      "allureFolder": "build/allure-report/",
       "allureLinkPath": "allure",
       "chart": true,
       "chartName": "",
